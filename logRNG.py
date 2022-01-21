@@ -23,7 +23,7 @@ def tryMethod(power,tries):
         nums[str(i)+"-"+str(i+1)] = str(100*x/tries) + "%"
     return nums
 
-#print(tryMethod(3,100000000))
+#print(tryMethod(3,1000000))
 
 ########################################################################
 
